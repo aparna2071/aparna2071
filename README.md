@@ -7,7 +7,7 @@
 - 💻 I’m a full stack MERN developer and a content writer on Twitter 
 - 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of 9.12
 - 🌱 I’m currently learning Cloud technologies (Azure)
-- 💞️ Interests: Listening songs, creating content
+- 💞️ Interests: Listening songs, creating content, drawing and painting
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
