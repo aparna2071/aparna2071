@@ -33,7 +33,7 @@
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AparnaSoneja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparna-35066b191/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=black)](https://aparnaportfoliofinal.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=website&logoColor=black)](https://aparnaportfoliofinal.netlify.app/)
 
 
 <!---
