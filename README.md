@@ -40,15 +40,7 @@
     </thead>
 </table>
 
- # Contribution graph
  
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tbody>
-        <tr>
-            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=aparna2071&theme=tokyo-night" alt="Aparna's contribution timeline" /></th>
-        </tr>
-    </tbody>
-</table>
 
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AparnaSoneja)
